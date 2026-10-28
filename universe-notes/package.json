@@ -6,5 +6,6 @@
   "type": "module",
   "scripts": {
     "list": "node list.js"
+    "search": "node search.js"
   }
 }
